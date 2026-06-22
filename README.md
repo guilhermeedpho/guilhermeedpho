@@ -1,37 +1,32 @@
-# Olá, eu sou Guilherme Ferreira Silva 👋
+## 🚀 Projetos em Destaque
 
-## 💻 Desenvolvedor Full Stack | Salesforce
+### ApitaJá
+Aplicação web desenvolvida para conectar organizadores de partidas de futebol a árbitros.
 
-Sou apaixonado por tecnologia e desenvolvimento web.
+**Tecnologias utilizadas:**
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- Vercel
+- Inteligência Artificial
 
-Tenho conhecimentos em:
+**Funcionalidades:**
+- Cadastro de árbitros
+- Solicitação de arbitragem
+- Interface responsiva
+- Publicação online
 
+### Landing Pages e Sites
+
+Desenvolvimento de páginas web responsivas focadas em apresentação de serviços e captação de clientes.
+
+**Tecnologias:**
 - HTML5
 - CSS3
 - JavaScript
-- Git e GitHub
 - WordPress
-- Salesforce
 
-## 🚀 Tecnologias
+### Projetos Pessoais
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
-</p>
-
-## 🎯 Objetivo
-
-Atuar em projetos de Desenvolvimento Web, Salesforce e Tecnologia, contribuindo com soluções digitais e geração de resultados.
-
-## 📫 Contato
-
-- Email: guillhermeedpho13@gmail.com
-- GitHub: https://github.com/guilhermeedpho
-
----
-
-⭐ Obrigado por visitar meu perfil!
+Criação de aplicações e interfaces web para aprendizado e prática de desenvolvimento Full Stack e Salesforce.
